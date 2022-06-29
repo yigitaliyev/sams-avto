@@ -1,0 +1,39 @@
+.App {
+ 
+}
+.birinchi {
+  background-color: rgb(218, 103, 103);
+  width: 1440px;
+  height: 910px;
+
+}
+.navbar {
+  width: 1440px;
+  height: 70px;
+  background-color: #000;
+  display: flex;
+  gap: 10px ;
+  justify-content: space-between;
+}
+.sams-auta {
+  padding: 22.23px 0 0 28.24px;
+  color: #fff;
+}
+.links {
+  padding: 27px 60px 27.77px 0 ;
+  display: flex;
+}
+.links li a {
+  text-decoration: none;
+  color: #fff;
+  padding: 0 0px 0 120px;
+}
+.buttun {
+   padding: 18px 28px 18px 0;
+}
+.buttun button {
+  background-color: #B53300;
+  color: #fff;
+  width: 93.63px;
+  height: 34.47px;
+}
